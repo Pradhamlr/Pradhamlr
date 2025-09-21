@@ -1,6 +1,6 @@
 # Hi there, I’m **Pradham** 👋  
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&width=435&lines=Full-Stack+Developer;JavaScript+%7C+Node.js+%7C+MongoDB;Lifelong+Learner+%F0%9F%8E%93;Open+Source+Enthusiast+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&width=435&lines=Full-Stack+Developer;Lifelong+Learner+%F0%9F%8E%93;Open+Source+Enthusiast+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 ---
 
