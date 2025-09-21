@@ -6,10 +6,11 @@
 
 ## 🔭 About Me  
 
-- 🎯 Full-Stack Developer (Slightly Inclined Towards Backend Systems)  
-- 🌱 Currently exploring **Microservices and DevOps**  
-- 💬 Ask me about JavaScript, Node.js, Express, MongoDB, REST APIs  
-- 📫 Reach me on [LinkedIn](www.linkedin.com/in/pradham-l-raj-280335281) or via email at `pradham.lr@gmail.com`
+- 🎯 **Full-Stack Developer** (slightly inclined towards backend systems)  
+- 🌱 Currently exploring **Microservices** and **DevOps**  
+- 💬 Ask me about **JavaScript, Node.js, Express, MongoDB, REST APIs**  
+- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/pradham-l-raj-280335281) or via email at **pradham.lr@gmail.com**
+
 
 ---
 
@@ -25,8 +26,13 @@ Git · GitHub · Docker · AWS
 
 ## 📊 GitHub Stats  
 
-![Pradham's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pradhamlr&show_icons=true&theme=tokyonight&count_private=true)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Pradhamlr&layout=compact&theme=tokyonight)  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Pradhamlr&show_icons=true&theme=tokyonight&count_private=true" alt="Pradham's GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pradhamlr&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
 
 ---
 
@@ -34,9 +40,17 @@ Git · GitHub · Docker · AWS
 
 - 🧠 Love solving coding problems and learning new tech  
 - 🎧 Music & podcasts while coding  
-- 🌍 Exploring open-source and real-world problem solving  
+- 🌍 Exploring open-source and real-world problem solving
+
 
 ---
+
+## 📈 Contribution Graph  
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pradhamlr&theme=tokyo-night" alt="GitHub Activity Graph" />
+</p>
+
 
 <!-- Proudly made using GitHub Readme Stats & inspired by Anurag Hazra’s templates -->
 
