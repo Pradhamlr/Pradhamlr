@@ -1,4 +1,45 @@
-## Hi there 👋
+# Hi there, I’m **Pradham** 👋  
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&width=435&lines=Full-Stack+Developer;JavaScript+%7C+Node.js+%7C+MongoDB;Lifelong+Learner+%F0%9F%8E%93;Open+Source+Enthusiast+%F0%9F%9A%80)](https://git.io/typing-svg)
+
+---
+
+## 🔭 About Me  
+
+- 🎯 Full-Stack Developer (Slightly Inclined Towards Backend Systems)  
+- 🌱 Currently exploring **Microservices and DevOps**  
+- 💬 Ask me about JavaScript, Node.js, Express, MongoDB, REST APIs  
+- 📫 Reach me on [LinkedIn](www.linkedin.com/in/pradham-l-raj-280335281) or via email at `pradham.lr@gmail.com`
+
+---
+
+## 💻 Tech Stack  
+
+**Languages & Frameworks:**  
+JavaScript · Node.js · Express · MongoDB · Java · Flask  
+
+**Tools / Platforms:**  
+Git · GitHub · Docker · AWS
+
+---
+
+## 📊 GitHub Stats  
+
+![Pradham's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pradhamlr&show_icons=true&theme=tokyonight&count_private=true)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Pradhamlr&layout=compact&theme=tokyonight)  
+
+---
+
+## 🎯 Fun Facts  
+
+- 🧠 Love solving coding problems and learning new tech  
+- 🎧 Music & podcasts while coding  
+- 🌍 Exploring open-source and real-world problem solving  
+
+---
+
+<!-- Proudly made using GitHub Readme Stats & inspired by Anurag Hazra’s templates -->
+
 
 <!--
 **Pradhamlr/Pradhamlr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
