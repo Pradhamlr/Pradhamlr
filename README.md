@@ -18,7 +18,7 @@
 
 <p align="center">
   <!-- Languages & Frameworks -->
-  <img src="https://skillicons.dev/icons?i=js,nodejs,express,mongodb,postgres,java,flask,bash" /><br>
+  <img src="https://skillicons.dev/icons?i=js,nodejs,express,react,mongodb,postgres,java,flask,bash" /><br>
   <!-- Tools & Platforms -->
   <img src="https://skillicons.dev/icons?i=git,github,docker,aws" />
 </p>
