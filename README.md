@@ -2,9 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:36bcf7&height=190&section=header&text=PRADHAM%20L%20RAJ&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=50" width="100%"/>
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=36BCF7&center=true&vCenter=true&width=560&lines=Backend+%26+systems%2C+mostly;I+care+why+it+works%2C+not+just+that+it+does;Currently+breaking+things+on+purpose" alt="Typing SVG" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=36BCF7&center=true&vCenter=true&width=560&lines=Backend+%26+systems%2C+mostly;I+care+why+it+works%2C+not+just+that+it+does;Currently+breaking+things+on+purpose" alt="Typing SVG" />
 
 </div>
 
@@ -71,7 +69,7 @@ const pradham = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Pradhamlr&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" width="48%" />
+<img src="https://github-readme-stats-pradhamlrs-projects.vercel.app/api?username=Pradhamlr&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" width="48%" />
 <img src="https://streak-stats.demolab.com?user=Pradhamlr&theme=tokyonight&hide_border=true&background=0D1117" width="48%" />
 
 <br><br>
