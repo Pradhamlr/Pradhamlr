@@ -36,18 +36,21 @@ const pradham = {
 <div align="center">
 
 **Languages & Frameworks**
+
 <br>
 <img src="https://skillicons.dev/icons?i=js,nodejs,express,react,java,cpp,flask,bash" />
 
 <br><br>
 
 **Data**
+
 <br>
 <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,prisma" />
 
 <br><br>
 
 **Tooling & Infra**
+
 <br>
 <img src="https://skillicons.dev/icons?i=git,github,githubactions,docker,aws,azure,vercel" />
 
