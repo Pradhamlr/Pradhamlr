@@ -1,16 +1,16 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:36bcf7&height=190&section=header&text=PRADHAM%20L%20RAJ&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=backend%20%26%20systems%20engineer&descAlignY=60&descSize=17&descColor=b8c4d0" width="100%"/>
-
-<code>GET /api/pradham</code> → <code>200 OK</code>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:36bcf7&height=190&section=header&text=PRADHAM%20L%20RAJ&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=backend%20and%20systems%20engineer&descAlignY=60&descSize=17&descColor=b8c4d0" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=36BCF7&center=true&vCenter=true&width=560&lines=Backend+%26+systems%2C+mostly;I+care+why+it+works%2C+not+just+that+it+does;Currently+breaking+things+on+purpose;Verify+it+live+%E2%80%94+assumptions+are+bugs+with+confidence" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=36BCF7&center=true&vCenter=true&width=560&lines=Backend+%26+systems%2C+mostly;I+care+why+it+works%2C+not+just+that+it+does;Currently+breaking+things+on+purpose" alt="Typing SVG" />
 </a>
 
 </div>
 
 <br>
+
+## About
 
 ```js
 const pradham = {
@@ -24,12 +24,16 @@ const pradham = {
 
 <br>
 
-## `📡` /api/pradham reference
+## Currently Focused On
+
+- Going deeper on the fundamentals underneath the frameworks — OS, networking, distributed systems
+- Real-time architectures: SSE vs WebSockets, and knowing when each is actually the right call
+- Sandboxed execution & the security model around running untrusted code
+- CI/CD that genuinely gates things, not a green checkmark for decoration
 
 <br>
 
-### `GET /stack`
-> `200 OK`
+## Tech Stack
 
 <div align="center">
 
@@ -53,24 +57,7 @@ const pradham = {
 
 <br>
 
-### `GET /focus`
-> `200 OK` — refreshed periodically, no cache
-
-<details open>
-<summary><b>what I'm into right now</b></summary>
-<br>
-
-- Going deeper on the fundamentals underneath the frameworks — OS, networking, distributed systems
-- Real-time architectures: SSE vs WebSockets, and knowing when each is actually the right call
-- Sandboxed execution & the security model around running untrusted code
-- CI/CD that genuinely gates things, not a green checkmark for decoration
-
-</details>
-
-<br>
-
-### `GET /backlog`
-> `202 Accepted` — queued, not forgotten
+## What's Next
 
 ```diff
 + ship the things already half-built
@@ -80,24 +67,14 @@ const pradham = {
 
 <br>
 
-### `GET /stats`
-> `200 OK`
+## GitHub Activity
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Pradhamlr&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&count_private=true" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pradhamlr&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" width="35%" />
 
-<br>
+<img src="https://github-readme-stats.vercel.app/api?username=Pradhamlr&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" width="48%" />
+<img src="https://streak-stats.demolab.com?user=Pradhamlr&theme=tokyonight&hide_border=true&background=0D1117" width="48%" />
 
-<img src="https://streak-stats.demolab.com?user=Pradhamlr&theme=tokyonight&hide_border=true&background=0D1117" width="70%" />
-</div>
-
-<br>
-
-### `GET /activity`
-> `200 OK` — live contribution feed
-
-<div align="center">
+<br><br>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Pradhamlr/Pradhamlr/output/github-contribution-grid-snake-dark.svg" />
@@ -105,14 +82,11 @@ const pradham = {
   <img alt="contribution snake animation" src="https://raw.githubusercontent.com/Pradhamlr/Pradhamlr/output/github-contribution-grid-snake.svg" width="100%"/>
 </picture>
 
-<sub>(needs a one-time workflow — see setup notes below)</sub>
-
 </div>
 
 <br>
 
-### `POST /contact`
-> `201 Created`
+## Get In Touch
 
 <div align="center">
 
