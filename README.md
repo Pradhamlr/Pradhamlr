@@ -13,7 +13,7 @@
 ```js
 const pradham = {
   role:       "Full-stack, with a heavy backend accent",
-  thinking:   ["distributed systems", "auth done properly", "why is this slow?"],
+  thinking:   ["distributed systems", "why is this slow?"],
   building:   "things I'd actually use myself",
   debugging:  "usually the thing I was certain couldn't be the problem",
   philosophy: "verify it live — assumptions are just bugs with confidence",
